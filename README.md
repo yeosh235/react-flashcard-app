@@ -1,5 +1,4 @@
-React Flashcard App
-An interactive, responsive learning tool built to master concepts through active recall and spaced repetition.
+# React Flashcard App  
 
 Live Demo on Github Pages can be accessed here : https://yeosh235.github.io/react-flashcard-app/  
 
