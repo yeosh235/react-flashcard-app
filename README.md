@@ -1,13 +1,5 @@
 # React Flashcard App
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://pages.github.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-green)](https://yeosh235.github.io/react-flashcard-app/)
-
-A fully-featured interactive flashcard application built with React to help users learn and memorize concepts through question-and-answer cards. Features card flipping, navigation, progress tracking, and a clean user interface.
-
 ## Live Demo
 
 **[View Live Application](https://yeosh235.github.io/react-flashcard-app/)**
